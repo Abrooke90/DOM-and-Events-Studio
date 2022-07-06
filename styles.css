@@ -1,5 +1,5 @@
 #shuttleBackground {
-    background-color: green;
+    background-color: rgb(86, 203, 207);
     display: inline-block;
     height: 80%;
     width: 40%;
@@ -12,7 +12,7 @@
 
 #flightDisplay {
     text-align: center; 
-    height: 400px; 
+    height: 10px; 
     width: 100%;
 }
 
